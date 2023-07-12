@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Predicting demand for shared bikes using multiple regression
 
 
 ## Table of Contents
@@ -9,10 +9,8 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- This is a project to train a regression model to predict the demand for shared Bikes for a Bike Sharing company
+- This is accomplished using the bike sharing dataset present within this repo itself
 
 
 ## Conclusions
